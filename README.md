@@ -1,1 +1,1 @@
-# wordle_nom1_nom2
+# wordle_nom_1_nom_2
